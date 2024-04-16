@@ -1,11 +1,7 @@
-# About Me / Sobre mim
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
 
-- 👋 Hi, I’m Felipe and i am a freelance designer trying to learn programming / Opa, meu nome é Felipe e eu sou um designer freelancer tentando aprender programação
-- 👀 I’m interested in jobs as a freelancer or small projects / Eu estou interessado em trabalhos como freelancer ou projetos pequenos
-- 🌱 I’m currently learning programming at school / Atualmente estou aprendendo programação na escola
-- 📫 How to reach me / Como me encontrar: instagram: felipebuchee
+### Olá, meu nome é {seu nome}!
 
-<!---
-felipebuchee/felipebuchee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src="https://img.shields.io/static/v1?label=Overview&message=SEUNOME&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+
+<p>Trabalhando na {nome da empresa}<br/> Eu sou desenvolvedor {sua stack}</p>
