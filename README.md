@@ -2,6 +2,6 @@
 
 ### Olá, meu nome é Felipe!
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=SEUNOME&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<img src="https://img.shields.io/static/v1?label=Overview&message=FELIPE BUCHE&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 <p>Estudando no Instituto Federal do Paraná<br/> Eu sou desenvolvedor Front End</p>
